@@ -1,0 +1,8 @@
+<library path="lib/libsonar_to_laserscan">
+
+  <class name="sonar_to_laserscan/sonar_to_laserscan_nodelet"
+	 type="sonar_to_laserscan::SonarToLaserScanNodelet"
+	 base_class_type="nodelet::Nodelet">
+  </class>
+
+</library>
